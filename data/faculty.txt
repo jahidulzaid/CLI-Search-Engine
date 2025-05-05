@@ -1,0 +1,103 @@
+<--- CSE --->
+Muhammad Aminur Rahaman, Chairperson, CSE, aminur@cse.green.edu.bd, 01716539541, Mirpur DOHS, Dhaka  
+Saiful Azad, Dean, Faculty of Science & Engineering, CSE, chairman@cse.green.edu.bd, 01747230418, Dhanmondi, Dhaka  
+Syed Ahsanul Kabir, Associate Professor & Associate Head (OBE), CSE, kabir@cse.green.edu.bd, 01727654388, Uttara, Dhaka  
+Mostafijur Rahman, Associate Professor & Exam Controller, CSE, mostafijur@cse.green.edu.bd, 01783529447, Mohammadpur, Dhaka  
+Muhammad Abul Hasan, Associate Professor, CSE, muhammad.hasan@cse.green.edu.bd, 01936751760, Banani, Dhaka  
+Umme Ruman, Assistant Professor (Mathematics), CSE, ruman@cse.green.edu.bd, 01799089667, Badda, Dhaka  
+Tamim Al Mahmud, Assistant Professor & Program Coordinator (Evening), CSE, tamim@cse.green.edu.bd, 01710339405, Tejgaon, Dhaka  
+Shamima Akter, Assistant Professor & Assistant Proctor, CSE, shamima_akter@cse.green.edu.bd, 01816234584, Azimpur, Dhaka  
+Solaiman Mia, Assistant Professor, CSE, solaiman@cse.green.edu.bd, 01976524626, Malibagh, Dhaka  
+Faiz Al Faisal, Assistant Professor & Associate Head (Research & Student Affairs), CSE, faisal@cse.green.edu.bd, 01926662396, Shantinagar, Dhaka
+Shamima Islam, Assistant Professor & Program Coordinator (Mathematics), CSE, shamima@cse.green.edu.bd, 01726296446, Basabo, Dhaka  
+Jahidul Islam, Assistant Professor, CSE, jahid@cse.green.edu.bd, 01790100915, Rampura, Dhaka  
+Jakia Sultana, Assistant Professor (Mathematics), CSE, jakia@cse.green.edu.bd, 01675984008, Jatrabari, Dhaka  
+Farhana Akter Sunny, Assistant Professor & Program Coordinator, CSE, farhana@cse.green.edu.bd, 01686674786, Kamrangirchar, Dhaka  
+Sharmin Alam, Senior Lecturer (Mathematics), CSE, sharmin@cse.green.edu.bd, 01816235784, Mirpur DOHS, Dhaka  
+Humayan Kabir Rana, Senior Lecturer, CSE, humayan@cse.green.edu.bd, 01723744140, Farmgate, Dhaka  
+Monirul Islam, Lecturer (Mathematics), CSE, monirul@cse.green.edu.bd, 01909416704, Kazipara, Dhaka  
+Jargis Ahmed, Lecturer & Program Coordinator (Day), CSE, jargis@cse.green.edu.bd, 01767698004, Mohakhali, Dhaka  
+Samiha Islam Tanni, Lecturer (Mathematics), CSE, samiha@cse.green.edu.bd, 01787771938, Lalmatia, Dhaka  
+Robiul Islam, Lecturer (Mathematics), CSE, robiul@cse.green.edu.bd, 01515603096, Shyamoli, Dhaka  
+Babe Sultana, Lecturer, CSE, babe@cse.green.edu.bd, 01913620672, Paltan, Dhaka  
+Umme Habiba, Lecturer, CSE, umme@cse.green.edu.bd, 01689932207, Shahbagh, Dhaka  
+Rokeya Khatun, Lecturer, CSE, rokeya@cse.green.edu.bd, 01701014498, Hazaribagh, Dhaka  
+Ehsan Shahmi Chowdhury, Lecturer & Program Coordinator (Day), CSE, ehsan@cse.green.edu.bd, 01537691938, Dhanmondi, Dhaka  
+Tanpia Tasnim, Lecturer & Program Coordinator (Evening), CSE, tanpia@cse.green.edu.bd, 01677338060, Banasree, Dhaka  
+Feroza Naznin, Lecturer, CSE, feroza@cse.green.edu.bd, 01743532386, Baridhara, Dhaka  
+Palash Roy, Lecturer, CSE, palash@cse.green.edu.bd, 01846869580, Mirpur-2, Dhaka  
+Shifat Ara Rafiq, Lecturer, CSE, shifatara@cse.green.edu.bd, 01400577473, Kalabagan, Dhaka  
+Parvez Hossain, Lecturer & Program Coordinator (Day), CSE, parvez@cse.green.edu.bd, 01829073774, Agargaon, Dhaka  
+Abu Rumman Refat, Lecturer, CSE, refat@cse.green.edu.bd, 01521457503, Gulshan, Dhaka  
+Saurav Chandra Das, Lecturer & Program Coordinator (Day), CSE, saurav@cse.green.edu.bd, 01521434695, Badda, Dhaka  
+Riad Hassan, Lecturer, CSE, riad@cse.green.edu.bd, 01730587617, Tejgaon, Dhaka  
+Fatema Akter, Lecturer, CSE, fatema_akter@cse.green.edu.bd, 01788787840, Azimpur, Dhaka  
+Tanoy Debnath, Lecturer, CSE, tanoy@cse.green.edu.bd, 01928527997, Malibagh, Dhaka  
+Mozdaher Abdul Quader, Lecturer, CSE, quader@cse.green.edu.bd, 01989182491, Shantinagar, Dhaka  
+Rafiqul Islam, Lecturer, CSE, rafiqul@cse.green.edu.bd, 01521108404, Basabo, Dhaka  
+Ashiqussalehin, Lecturer & Program Coordinator (Day), CSE, ashiqussalehin@cse.green.edu.bd, 01799776562, Rampura, Dhaka  
+Shimul Dey Katha, Lecturer, CSE, shimul@cse.green.edu.bd, 01571275447, Jatrabari, Dhaka
+Sagufta Sabah Nakshi, Lecturer, CSE, sagufta@cse.green.edu.bd, 01324713553, Dhanmondi, Dhaka  
+Noyan Ali, Lecturer, CSE, noyan@cse.green.edu.bd, 01783247357, Kamrangirchar, Dhaka  
+Naimul Pathan, Lecturer, CSE, naimul@cse.green.edu.bd, 01834713099, Mirpur DOHS, Dhaka  
+Nazmus Shakib, Lecturer, CSE, nazmus_shakib@cse.green.edu.bd, 01521404895, Farmgate, Dhaka  
+Rajibul Palas, Lecturer, CSE, rajibul@cse.green.edu.bd, 01956189875, Kazipara, Dhaka  
+Shihab Hossain, Lecturer, CSE, shihab@cse.green.edu.bd, 01911840262, Mohakhali, Dhaka  
+Jarin Tasnim Tonvi, Lecturer, CSE, jarin@cse.green.edu.bd, 01511391297, Lalmatia, Dhaka  
+Rashidul Hasan Nijhum, Lecturer, CSE, nijhum@cse.green.edu.bd, 01776696835, Shyamoli, Dhaka  
+Wahia Tasnim, Lecturer, CSE, wahia@cse.green.edu.bd, 01322445644, Paltan, Dhaka  
+Shahidul Islam, Lecturer (Mathematics), CSE, shahidul@cse.green.edu.bd, 01689519471, Shahbagh, Dhaka  
+Shadman Wadith, Lecturer, CSE, shadman@cse.green.edu.bd, 01631404146, Hazaribagh, Dhaka  
+Maisha Fahmida, Lecturer, CSE, maisha_fahmida@cse.green.edu.bd, 01884544095, Dhanmondi, Dhaka  
+Fahimul Islam Fahim, Lecturer, CSE, fahimul@cse.green.edu.bd, 01893639181, Banasree, Dhaka  
+Mahbubur Rahman, Lecturer (Contractual), CSE, mahbubur@cse.green.edu.bd, 01621771951, Baridhara, Dhaka  
+
+English
+
+Dr. Md. Shahidullah, Chairperson, English, shahidullah@english.green.edu.bd, 01612345678, 15 Mirpur-2, Dhaka
+
+Dr. Serajum Munira, Associate Professor, English, munira@english.green.edu.bd, 01723456789, 12 Dhanmondi, Dhaka
+
+Dr. Md. Elham Hossain, Associate Professor, English, elham@english.green.edu.bd, 01834567890, 8 Uttara, Dhaka
+
+Dr. Md. Shamim Mondol, Associate Professor, English, shamim@english.green.edu.bd, 01755667788, 23 Gulshan, Dhaka
+
+Mohammad Golam Mohiuddin, Assistant Professor, English, mohiuddin@english.green.edu.bd, 01766778899, 17 Banani, Dhaka
+
+Syeda Masnuna Rumi, Lecturer, English, rumi@english.green.edu.bd, 01877889900, 5 Shantinagar, Dhaka
+
+Aklima Akter, Lecturer, English, akter@english.green.edu.bd, 01678999001, 45 Tejgaon, Dhaka
+
+GBS
+
+Prof. Dr. Mohammed Tareque Aziz, Dean & Professor, Business Administration, tareque@business.green.edu.bd, 01611223344, 10 Mirpur, Dhaka
+
+Prof. Dr. Helal Uddin Ahmed, Professor, Business Administration, helal@business.green.edu.bd, 01722334455, 15 Mohammadpur, Dhaka
+
+Dr. Md. Idris Ali, Associate Professor, Business Administration, idris@business.green.edu.bd, 01833445566, 20 Uttara, Dhaka
+
+Dr. Mohammad Delwar Hussain, Assistant Professor, Business Administration, delwar@business.green.edu.bd, 01644556677, 33 Banani, Dhaka
+
+Showkat Ara Khanam, Assistant Professor, Business Administration, showkat@business.green.edu.bd, 01755667788, 8 Gulshan, Dhaka
+
+Rokeya Binte Shahid, Assistant Professor, Business Administration, rokeya@business.green.edu.bd, 01722334477, 12 Shantinagar, Dhaka
+
+Rumana Ferdouse, Assistant Professor, Business Administration, rumana@business.green.edu.bd, 01833445588, 10 Mohakhali, Dhaka
+
+
+TExtile
+
+Dr. Md. Tazul Islam, Chairperson, Textile Engineering, tazul@textile.green.edu.bd, 01711121314, 25 Mirpur-10, Dhaka
+
+Prof. Dr. Md. Abul Kalam Azad, Professor, Textile Engineering, azad@textile.green.edu.bd, 01722334455, 7 Gulshan-2, Dhaka
+
+Dr. Shamsul Arefin, Associate Professor, Textile Engineering, arefin@textile.green.edu.bd, 01833445566, 22 Tejgaon, Dhaka
+
+Dr. Md. Abdul Halim, Associate Professor, Textile Engineering, halim@textile.green.edu.bd, 01744556677, 33 Mohammadpur, Dhaka
+
+Md. Tanvir Hasan, Assistant Professor, Textile Engineering, tanvir@textile.green.edu.bd, 01755667788, 15 Badda, Dhaka
+
+Rabeya Sultana, Assistant Professor, Textile Engineering, rabeya@textile.green.edu.bd, 01666778899, 12 Jatrabari, Dhaka
+
+Nazrul Islam, Lecturer, Textile Engineering, nazrul@textile.green.edu.bd, 01777889900, 9 Lalmatia, Dhaka
+
