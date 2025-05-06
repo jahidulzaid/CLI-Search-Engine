@@ -1,5 +1,85 @@
-grapes
-gems
-google
-good
-gobble
+ACADEMIC Review notes on Discrete Mathematics
+ACADEMIC Solve tutorial questions on Calculus
+ACADEMIC Watch lecture on Computer Architecture
+ACADEMIC Attend seminar on Research Methodology
+ACADEMIC Complete assignment on Operating Systems
+ACADEMIC Organize notes for quick revision
+ACADEMIC Read paper on Graph Theory
+ACADEMIC Take mock quiz on Automata Theory
+ACADEMIC Revise class notes for Data Structures
+ACADEMIC Prepare slides for group presentation
+CP Solve 2 Codeforces problems from today's contest
+CP Practice DSA questions on LeetCode
+CP Learn about binary search optimization
+CP Review graph algorithms: BFS & DFS
+CP Practice segment tree problems
+CP Solve a DP problem with memoization
+CP Watch editorial for yesterday's contest
+CP Submit one hard-level Codeforces problem
+CP Solve one problem from TopCoder archive
+CP Join a virtual contest this weekend
+PROJECT Finalize ER diagram for project DB
+PROJECT Test API endpoints with Postman
+PROJECT Set up frontend development environment
+PROJECT Write documentation for current features
+PROJECT Merge feature branch to main
+PROJECT Create Trello board for tasks
+PROJECT Push code to GitHub repo
+PROJECT Conduct code review session
+PROJECT Integrate authentication system
+PROJECT Set deployment environment on Vercel
+BOOK Read 15 pages of 'The Pragmatic Programmer'
+BOOK Highlight key concepts in 'Deep Work'
+BOOK Take notes on 'Atomic Habits'
+BOOK Read one chapter of 'Design Patterns'
+BOOK Start reading 'Introduction to Algorithms'
+BOOK Write a reflection on 'Soft Skills'
+BOOK Review annotations from 'Zero to One'
+BOOK Read preface of SICP
+BOOK Share book review on Goodreads
+BOOK Organize reading list on Notion
+CALL Call academic advisor for thesis feedback
+CALL Check in with internship supervisor
+CALL Call mentor to get career advice
+CALL Confirm time with study group
+CALL Follow up with teammate on pending task
+CALL Schedule a call with course coordinator
+CALL Catch up with family about exam week
+CALL Discuss job application with a friend
+CALL Arrange group meeting with teammates
+CALL Ask senior for recommendation tips
+FINAL Create a revision plan by subject
+FINAL Solve last year’s question papers
+FINAL Memorize key formulas for Statistics
+FINAL Revise OS process scheduling algorithms
+FINAL Rework weak topics from last mock
+FINAL Solve sample problems under timed conditions
+FINAL Write down last-minute flashcards
+FINAL Attend consultation hour with lecturer
+FINAL Group study session for Numerical Methods
+FINAL Review cheat sheet for quick recap
+PROGRAMMING Refactor old Java codebase
+PROGRAMMING Write script to automate backups
+PROGRAMMING Build a basic portfolio website
+PROGRAMMING Practice Git rebase and merge
+PROGRAMMING Learn about async/await in JavaScript
+PROGRAMMING Create a CLI app with Python
+PROGRAMMING Study object-oriented design principles
+PROGRAMMING Practice SQL joins
+PROGRAMMING Create a simple chatbot using Python
+PROGRAMMING Explore TypeScript documentation
+HEALTH Go for a 30-minute walk
+HEALTH Do a 10-minute stretch break every hour
+HEALTH Drink at least 2L of water today
+HEALTH Sleep by 11 PM
+HEALTH Prepare a healthy lunch
+HOUSE Clean your study desk
+HOUSE Organize your bookshelf
+HOUSE Do laundry
+HOUSE Take out the trash
+HOUSE Clean your computer keyboard and screen
+FINANCE Track expenses in monthly budget
+FINANCE Transfer funds to savings account
+FINANCE Pay tuition fee before deadline
+FINANCE Review upcoming bills
+FINANCE Check mobile recharge balance
