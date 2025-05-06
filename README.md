@@ -53,7 +53,7 @@ cd cli-search-engine
 2. **Compile the Code**
 
 ```bash
-g++ main.cpp prefix_exact_pattern_Search.cpp utility_functions.cpp -o search_engine
+g++ SearchEngine.cpp -o search_engine
 ```
 
 3. **Run the Program**
