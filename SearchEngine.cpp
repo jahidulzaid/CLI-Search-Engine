@@ -20,9 +20,11 @@ int main(int argc, char **argv)
     }
     else
     {
+        cout << "Choose a Prefferd DataSet from the following list >>>\n";
         cout << "File name: ( faculty | students | movies | todolist ) :\n";
         cin >> filename;
         cerr << "loading ...";
+        cerr << "Loaded " << filename << " \n";
         data = get_array_from_file("data/" + filename + ".txt");
         cerr << "Done.\n";
     }
@@ -99,10 +101,8 @@ int main(int argc, char **argv)
 
         cout << "\n\nPress any key to continue.";
         getchar();
-        
 
     } while (choice);
-
 
     return 0;
 }

@@ -29,7 +29,7 @@ PROJECT Conduct code review session
 PROJECT Integrate authentication system
 PROJECT Set deployment environment on Vercel
 BOOK Read 15 pages of 'The Pragmatic Programmer'
-BOOK Highlight key concepts in 'Deep Work'
+BOOK
 BOOK Take notes on 'Atomic Habits'
 BOOK Read one chapter of 'Design Patterns'
 BOOK Start reading 'Introduction to Algorithms'
