@@ -41,6 +41,8 @@ Robiul Islam, Lecturer (Mathematics), CSE, robiul@cse.green.edu.bd, 01515603096,
 
 Babe Sultana, Lecturer, CSE, babe@cse.green.edu.bd, 01913620672, Paltan, Dhaka  
 
+Sagufta Sabah Nakshi, Lecturer, CSE, sagufta@cse.green.edu.bd, 01324713553, Dhanmondi, Dhaka  
+
 Umme Habiba, Lecturer, CSE, umme@cse.green.edu.bd, 01689932207, Shahbagh, Dhaka  
 
 Rokeya Khatun, Lecturer, CSE, rokeya@cse.green.edu.bd, 01701014498, Hazaribagh, Dhaka  
@@ -74,8 +76,6 @@ Rafiqul Islam, Lecturer, CSE, rafiqul@cse.green.edu.bd, 01521108404, Basabo, Dha
 Ashiqussalehin, Lecturer & Program Coordinator (Day), CSE, ashiqussalehin@cse.green.edu.bd, 01799776562, Rampura, Dhaka  
 
 Shimul Dey Katha, Lecturer, CSE, shimul@cse.green.edu.bd, 01571275447, Jatrabari, Dhaka
-
-Sagufta Sabah Nakshi, Lecturer, CSE, sagufta@cse.green.edu.bd, 01324713553, Dhanmondi, Dhaka  
 
 Noyan Ali, Lecturer, CSE, noyan@cse.green.edu.bd, 01783247357, Kamrangirchar, Dhaka  
 

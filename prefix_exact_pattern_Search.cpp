@@ -1,39 +1,31 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-vector<string> get_array_from_file(string src)
-{
+vector<string> get_array_from_file(string src){
     fstream file(src);
 
     string word;
     vector<string> words;
 
-    if (!file)
-    {
+    if (!file){
         cerr << "\nCan't Open File " << src << " Some Error Occurred.!\n";
         return words;
     }
-
-    while (!file.eof())
-    {
+    while (!file.eof()){
         getline(file, word);
         if (word.size())
             words.push_back(word);
         word = "\0";
     }
-
     return words;
 }
 
-vector<string> linear_search_pre(vector<string> v, string str)
-{
+vector<string> linear_search_pre(vector<string> v, string str){
 
     vector<string> results;
-
     auto start = chrono::high_resolution_clock::now();
 
-    for (auto s : v)
-    {
+    for (auto s : v){
         bool match = true;
         for (int i = 0; i < str.size(); ++i)
         {
@@ -46,7 +38,6 @@ vector<string> linear_search_pre(vector<string> v, string str)
         if (match)
             results.push_back(s);
     }
-
     auto stop = chrono::high_resolution_clock::now();
     auto duration = chrono::duration_cast<chrono::nanoseconds>(stop - start);
 
@@ -56,8 +47,7 @@ vector<string> linear_search_pre(vector<string> v, string str)
     return results;
 }
 
-bool linear_search_exact(vector<string> v, string str)
-{
+bool linear_search_exact(vector<string> v, string str){
     auto start = chrono::high_resolution_clock::now();
 
     bool found = false;
@@ -69,7 +59,6 @@ bool linear_search_exact(vector<string> v, string str)
             break;
         }
     }
-
     auto stop = chrono::high_resolution_clock::now();
     auto duration = chrono::duration_cast<chrono::nanoseconds>(stop - start);
 
@@ -79,16 +68,11 @@ bool linear_search_exact(vector<string> v, string str)
     return found;
 }
 
-// ? KMP Matching.
-
-// Fills lps[] for given patttern pat[0..M-1]
 void computeLPSArray(string pat, int M, int *lps)
 {
     int len = 0;
-
     lps[0] = 0;
 
-    // the loop calculates lps[i] for i to M-1
     int i = 1;
     while (i < M)
     {
@@ -104,9 +88,8 @@ void computeLPSArray(string pat, int M, int *lps)
             if (len != 0)
             {
                 len = lps[len - 1];
-
             }
-            else // if (len == 0)
+            else
             {
                 lps[i] = 0;
                 i++;
@@ -115,9 +98,7 @@ void computeLPSArray(string pat, int M, int *lps)
     }
 }
 
-// Prints occurrences of txt[] in pat[]
-int KMPSearch(string pat, string txt)
-{
+int KMPSearch(string pat, string txt){
     int M = pat.size();
     int N = txt.size();
 
@@ -126,24 +107,18 @@ int KMPSearch(string pat, string txt)
     computeLPSArray(pat, M, lps);
 
     int i = 0;
-    int j = 0; 
-    while (i < N)
-    {
-        if (pat[j] == txt[i])
-        {
+    int j = 0;
+    while (i < N){
+        if (pat[j] == txt[i]){
             j++;
             i++;
         }
 
-        if (j == M)
-        {
+        if (j == M){
             return i - j;
             j = lps[j - 1];
         }
-
-        // mismatch after j matches
-        else if (i < N && pat[j] != txt[i])
-        {
+        else if (i < N && pat[j] != txt[i]){
 
             if (j != 0)
                 j = lps[j - 1];
@@ -156,8 +131,7 @@ int KMPSearch(string pat, string txt)
 
 // Universal Search
 
-vector<string> search(vector<string> v, string pat)
-{
+vector<string> search(vector<string> v, string pat){
 
     vector<string> results;
 
