@@ -16,8 +16,8 @@ public:
 class Trie
 {
 public:
-    int total_nodes;
-    int total_words;
+    // int total_nodes;
+    // int total_words;
     TrieNode *root;
 
     Trie()

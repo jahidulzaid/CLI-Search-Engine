@@ -20,7 +20,7 @@ int main(int argc, char **argv)
     }
     else
     {
-        cout << "File name: ( faculty | students | movies | todolist ) :\n";
+        cout << "File name: ( faculty | students | movies | todolist | words ) :\n";
         cin >> filename;
         cerr << "loading ...";
         data = get_array_from_file("data/" + filename + ".txt");
